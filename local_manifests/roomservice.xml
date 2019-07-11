@@ -11,8 +11,8 @@
   
   <!-- HALS -->
   
-  <project name="qsd8k-legacy/android_hardware_qcom_display-legacy " path="hardware/qcom/display-legacy" remote="github" revision="cm-13.0" />
-  <project name="qsd8k-legacy/android_hardware_qcom_audio-legacy " path="hardware/qcom/audio-legacy" remote="github" revision="cm-13.0" />
+  <project name="qsd8k-legacy/android_hardware_qcom_display-legacy" path="hardware/qcom/display-legacy" remote="github" revision="cm-13.0" />
+  <project name="qsd8k-legacy/android_hardware_qcom_audio-legacy" path="hardware/qcom/audio-legacy" remote="github" revision="cm-13.0" />
   <project name="qsd8k-legacy/android_hardware_qcom_gps-legacy" path="hardware/qcom/gps-legacy" remote="github" revision="cm-13.0" />
   <project name="qsd8k-legacy/android_hardware_qcom_media-legacy" path="hardware/qcom/media-legacy" remote="github" revision="cm-13.0" />
   <project name="qsd8k-legacy/android_hardware_libhardware_legacy" path="hardware/libhardware-legacy" remote="github" revision="cm-13.0" />
