@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!-- Declare remotes -->
+    <remote name="qsd8k-legacy" fetch="https://github.com/qsd8k-legacy" />
+    <remote name="maniacx" fetch="https://github.com/maniacx" />
+
+    <!-- HTC Leo Kernel -->
+    <project name="android_kernel_htc_htcleo" path="kernel/htc/htcleo" remote="qsd8k-legacy" revision="lineage-15.1"/>
+
+    <!-- HTC Leo Device -->
+    <project name="android_device_htc_leo" path="device/htc/leo" remote="qsd8k-legacy" revision="ula6"/>
+</manifest>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <manifest>
+    <remote name="milaq" fetch="https://github.com/milaq" />
+    <remote name="qsd8k-legacy" fetch="https://github.com/qsd8k-legacy" />
+
+    <project path="hardware/atheros/wlan"
+      name="android_hardware_atheros_wlan"
+      remote="milaq"
+      revision="cm-11.0"/>
+
+    <project path="external/backports-wireless"
+      name="android_external_backports-wireless"
+      remote="milaq"
+      revision="3.10-2"/>
+
+    <project path="hardware/broadcom/wlan-legacy"
+      name="android_hardware_broadcom_wlan-legacy"
+      remote="milaq"
+      revision="master"/>
+
+    <project path="hardware/qcom/display-legacy"
+      name="android_hardware_qcom_display-legacy"
+      remote="qsd8k-legacy"
+      revision="cm-13.0-msm7x30"/>
+
+    <project path="hardware/qcom/media-legacy"
+      name="android_hardware_qcom_media-legacy"
+      remote="qsd8k-legacy"
+      revision="cm-13.0-msm7x30"/>
+
+    <project path="hardware/qcom/audio-legacy"
+      name="android_hardware_qcom_audio-legacy"
+      remote="qsd8k-legacy"
+      revision="cm-13.0-msm7x30"/>
+
+  </manifest>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<!-- DEVICE TREES -->
+  <project name="qsd8k-legacy/android_device_htc_passion" path="device/htc/passion" remote="github" revision="cm-13.0" />
+  <project name="qsd8k-legacy/android_device_htc_qsd8k-common" path="device/htc/qsd8k-common" remote="github" revision="cm-13.0" />
+  <project name="qsd8k-legacy/android_vendor_htc" path="vendor/htc" remote="github" revision="cm-13.0" />
+  <project name="qsd8k-legacy/android_kernel_htc_qsd8k-2.6" path="kernel/htc/qsd8k" remote="github" revision="cm-13.0" />
+</manifest>
+
